@@ -1,5 +1,5 @@
 # Aliyeh Nohtani
-#University of Tehran
+# University of Tehran
 # 2021-Fall
 # Financial Time Series
 # Lecture 1 - Univariate Stationary Processes
