@@ -1,6 +1,6 @@
 # Aliyeh Nohtani
-# 2021-Fall
-# University Of tehran
+# University of Tehran
+# 2021-fall
 # Financial Time Series
 # Lecture 0 - Introduction to time series and R
 
