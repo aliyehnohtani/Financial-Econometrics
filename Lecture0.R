@@ -1,5 +1,6 @@
-# Ali Jadidzadeh
+# Aliyeh Nohtani
 # 2021-Fall
+# University Of tehran
 # Financial Time Series
 # Lecture 0 - Introduction to time series and R
 
@@ -13,7 +14,7 @@ library(lubridate)
 
 # Set directory
 # Check you have the right file path!!
-filepath <- '/Volumes/MacintoshHD2/Google Drive/Calsses/UofT/Lectures/TimeSeries/Lectures/Lec0'
+filepath <-
 setwd(filepath)
 
 
